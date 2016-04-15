@@ -18,7 +18,7 @@ public class LancerTest {
 
     @Test
     public void testGetVal1() throws Exception {
-
+        System.out.println("C'est la crise");
     }
 
     @Test
